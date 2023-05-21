@@ -1,1 +1,1 @@
-** Find power of a given element
+## Find power of a given element
